@@ -1,0 +1,15 @@
+--2024-09-18 18:24:11--  https://www.ddm.org.tw/xcevent/cont?xsmsid=0K293423255300198901
+Resolving www.ddm.org.tw (www.ddm.org.tw)... 172.67.184.133, 104.21.84.8, 2606:4700:3032::ac43:b885, ...
+Connecting to www.ddm.org.tw (www.ddm.org.tw)|172.67.184.133|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /xcevent?XsmSId=0K293423255300198901 [following]
+--2024-09-18 18:24:12--  https://www.ddm.org.tw/xcevent?XsmSId=0K293423255300198901
+Reusing existing connection to www.ddm.org.tw:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘cont?xsmsid=0K293423255300198901’
+
+cont?xsmsid=0K293423255300198901                 [<=>                                                                                           ]       0  --.-KB/s               cont?xsmsid=0K293423255300198901                 [ <=>                                                                                          ]  43.58K   128KB/s               cont?xsmsid=0K293423255300198901                 [  <=>                                                                                         ]  85.23K   222KB/s    in 0.4s    
+
+2024-09-18 18:24:14 (222 KB/s) - ‘cont?xsmsid=0K293423255300198901’ saved [87273]
+

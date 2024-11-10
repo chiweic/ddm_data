@@ -1,0 +1,53 @@
+{
+    "schedule": {
+        "url": "https://www.ddm.org.tw/xcevent/cont?xsmsid=0K293423255300198901&en=A202402618",
+        "title": "2024水陸法會出坡",
+        "venue": "護法總會大安信義南港分會",
+        "locations": {
+            "法鼓山園區": "208新北市金山區法鼓路555號"
+        },
+        "description": "2024年水陸法會出坡",
+        "registration": {
+            "audience": "一般社會大眾",
+            "period": "2024-09-23，07:00 ~ 2024-11-04，18:00"
+        },
+        "event_sessions": [
+            {
+                "title": "第一場 2024水陸法會出坡",
+                "status": "報名中",
+                "events": [
+                    {
+                        "event_date": "2024-11-24",
+                        "start_time": "07:00",
+                        "end_time": "15:30",
+                        "location": "法鼓山園區"
+                    }
+                ]
+            },
+            {
+                "title": "第二場 2024水陸法會出坡",
+                "status": "報名中",
+                "events": [
+                    {
+                        "event_date": "2024-11-26",
+                        "start_time": "07:00",
+                        "end_time": "15:30",
+                        "location": "法鼓山園區"
+                    }
+                ]
+            },
+            {
+                "title": "第三場 2024水陸法會出坡",
+                "status": "報名中",
+                "events": [
+                    {
+                        "event_date": "2024-11-28",
+                        "start_time": "07:00",
+                        "end_time": "15:30",
+                        "location": "法鼓山園區"
+                    }
+                ]
+            }
+        ]
+    }
+}
